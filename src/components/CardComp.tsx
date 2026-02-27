@@ -13,7 +13,7 @@ const CardComp = () => {
       <div className="bot">
         <i className="one fa-light fa-0 fa-2xs"></i>
         <span>6 mins ago</span>
-        <i class="fa-chisel fa-regular fa-comments two"></i>
+        <i className="fa-chisel fa-regular fa-comments two"></i>
       </div>
     </div>
   );
